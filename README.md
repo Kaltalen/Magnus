@@ -1,2 +1,6 @@
 # Magnus
-Magnetic Robot
+Spherical Magnetic Robot
+
+Variants
+D6
+D12
